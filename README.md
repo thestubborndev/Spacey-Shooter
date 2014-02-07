@@ -1,7 +1,7 @@
 Spacey Shooter
 ================
 
-An Toony Space Shooter developed in Unity3D
+A Toony Space Shooter developed in Unity3D
 
 IMPORTANT
 <br>
