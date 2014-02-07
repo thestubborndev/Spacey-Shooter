@@ -5,7 +5,7 @@ An Toony Space Shooter developed in Unity3D
 
 IMPORTANT
 <br>
-To view the complete repository which is private since it contains licensed 3d models) I need to add you as a collaborator.
+To view the complete repository (which is private since it contains licensed 3d models) I need to add you as a collaborator.
 <br>
 You can communicate your GitHub account email at this address carlotta [dot] tatti [at] gmail [dot] com
 
