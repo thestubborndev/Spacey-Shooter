@@ -15,3 +15,7 @@ You can communicate your GitHub account email at this address carlotta [dot] tat
 <img src=http://f.cl.ly/items/1V3t0S0Z0K3u220P0w0o/Screenshot_2014-02-02-14-34-17.png>
 <img src=http://f.cl.ly/items/2y0H030u2r252J3y1o3j/Screenshot_2014-02-02-14-34-04.png>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thestubborndev/spacey-shooter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
